@@ -28,11 +28,6 @@ nav .navbar-nav li a:hover {
   padding: 40px  !important;
 }
 
-.main-container {
- margin: 0 auto;
- width: 1000px;
-}
-
 .container1 {
     height: auto;
     width: auto;
@@ -67,7 +62,7 @@ nav .navbar-nav li a:hover {
 }
 
 .img-about {
- width: 550px;
+ width: 0 auto;
 }
 
 .about-text {
