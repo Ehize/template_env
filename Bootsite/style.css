@@ -85,7 +85,7 @@ nav .navbar-nav li a:hover {
 
 .justify-content-md-center{
     margin: 0 auto !important;
-    width: 1150px  !important;
+    width: auto  !important;
 }
 
 .case-text{
