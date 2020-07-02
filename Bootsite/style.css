@@ -25,12 +25,13 @@ nav .navbar-nav li a:hover {
 
 .container {
  margin-top: 100px !important;
- width: auto !important;
+ margin: 0 auto ! important;
+ width: 1150px !important;
 }
 
 .container1 {
     height: auto;
-    width: 1150px;
+    width: auto;
     background: #D5EEFB;
     border-radius: 5px;
     margin: 0 auto;
