@@ -28,6 +28,10 @@ nav .navbar-nav li a:hover {
   padding: 40px  !important;
 }
 
+.main-container {
+ width: 100%;
+}
+
 .container {
  margin-top: 100px !important;
 }
@@ -113,7 +117,7 @@ padding: 10px;
 
 .footer-text {
   padding-top: 18px;
-  text-align: center;
+  margin: 0 auto;
 }
 
 
@@ -135,7 +139,7 @@ padding: 10px;
 }
 
 .about-text {
-	font-size: 16px;
+  font-size: 16px;
   padding-top: 20px;
 }
 
