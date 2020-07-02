@@ -85,6 +85,9 @@ padding: 10px;
 	margin-top: 30px;
 	margin-bottom: 100px; 
 }
+.footer-text {
+  text-align: right;
+}
 
 
 
@@ -96,7 +99,19 @@ padding: 10px;
 
 .footer {
   margin: 0 auto;
-  width: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+.footer-text {
+  padding-top: 18px;
+  text-align: center;
+}
+
+
+.profile-link {
+font-size: 40px;
+padding: 10px;
 }
 
 .case-text{
