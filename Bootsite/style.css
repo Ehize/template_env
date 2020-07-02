@@ -75,7 +75,8 @@ nav .navbar-nav li a:hover {
 }
 
 .img-about {
- width: 500;
+ display: block;
+ width: 500px;
 }
 
 .about-text {
