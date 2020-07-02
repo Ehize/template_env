@@ -71,13 +71,7 @@ nav .navbar-nav li a:hover {
 .about {
  padding-top: 80px;
  width: 1055px;
-    margin: 0 auto;
-    overflow: hidden;
-    padding: 10px 0;
-    align-items: center;
-    justify-content: space-around;
-    display: flex;
-    float: none;
+ padding: 0 auto;
 }
 
 .img-about {
