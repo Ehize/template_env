@@ -68,6 +68,9 @@ nav .navbar-nav li a:hover {
   width: 500px !important;
 }
 
+.about {
+ width: 1055px;
+}
 .img-about {
  width: 550px;
 }
@@ -96,6 +99,7 @@ padding: 10px;
 	margin-top: 30px;
 	margin-bottom: 100px; 
 }
+
 .footer-text {
   text-align: right;
 }
@@ -140,6 +144,7 @@ padding: 10px;
  width: auto;
  margin: 0 auto;
 }
+
 
 .about-text {
   font-size: 16px;
