@@ -71,7 +71,7 @@ nav .navbar-nav li a:hover {
 .about {
  padding-top: 80px;
  width: 1055px;
- margin-left: 60px;
+ margin-left: 58px;
 }
 
 .img-about {
@@ -150,6 +150,9 @@ padding: 10px;
  margin: 0 auto;
 }
 
+.about {
+ width: auto;
+}
 
 .about-text {
   font-size: 16px;
