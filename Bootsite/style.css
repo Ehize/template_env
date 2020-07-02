@@ -152,7 +152,7 @@ padding: 10px;
 
 .about {
  width: auto;
- margin-left: 10px;
+ margin: 0 auto;
 }
 
 .about-text {
@@ -161,7 +161,7 @@ padding: 10px;
 }
 
 .img-about {
- width: 100%;
+ width: auto;
  margin: 0 auto;
 }
 
