@@ -29,8 +29,10 @@ nav .navbar-nav li a:hover {
 }
 
 .text-container {
- width: 1050px;
+ width: 1052px;
  margin: 0 auto;
+ padding-top: 80px;
+ padding-bottom: 80px;
 }
 
 .container1 {
