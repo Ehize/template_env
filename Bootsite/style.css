@@ -68,10 +68,14 @@ nav .navbar-nav li a:hover {
   width: 500px !important;
 }
 
+align-content-center {
+ margin: 0 auto;
+ width: 1052px
+}
+
 .about {
  padding-top: 80px;
- width: 1058px;
- padding: 0 auto;
+ width: 1052px;
 }
 
 .img-about {
