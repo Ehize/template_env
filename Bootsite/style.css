@@ -29,7 +29,8 @@ nav .navbar-nav li a:hover {
 }
 
 .text-container {
-width: 800px;
+ width: 900px;
+ margin: 0 auto;
 }
 
 .container1 {
@@ -90,7 +91,7 @@ padding: 10px;
 }
 
 .footer {
-	margin-top: 80px;
+	margin-top: 30px;
 	margin-bottom: 100px; 
 }
 .footer-text {
