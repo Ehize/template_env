@@ -7,9 +7,17 @@ nav .navbar-nav li a:hover {
   color: red !important;
 }
 
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='red' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: red;
+} 
+
 .text-center {
-  margin-top: 80px !important;
-  width: 55% !important;
+  margin-top: 80px;
+  width: 55%;
   font-size: 24px !important;
   margin: 0 auto  !important;
   padding: 40px  !important;
@@ -68,23 +76,27 @@ nav .navbar-nav li a:hover {
 	margin-right: 80px;
 }
 
+.profile-link {
+font-size: 20px;
+padding: 10px;
+}
+
 .footer {
 	margin-top: 30px;
 	margin-bottom: 100px; 
 }
 
 
-@media (max-width: 640px) {  
 
-.container {
- 
+@media (max-width: 640px) {  
+.text-center {
+  width: 100% !important;
+  font-size: 19px !important;
 }
 
-.text-center {
-  width: auto !important;
-  font-size: 16px !important;
-  margin: 0 auto  !important;
-  text-align: left;
+.footer {
+  margin: 0 auto;
+  width: 50%;
 }
 
 .case-text{
@@ -101,6 +113,7 @@ nav .navbar-nav li a:hover {
 
 .about-text {
 	font-size: 16px;
+  padding-top: 20px;
 }
 
 .img-about {
@@ -114,6 +127,6 @@ color: red !important;
 .img-fluid {
   display: block  !important;
   height: 100px  !important;
-  width: 120px !important;
+  width: 130px !important;
 }
 }
