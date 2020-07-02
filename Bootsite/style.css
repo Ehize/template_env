@@ -101,11 +101,10 @@ padding: 10px;
 
 
 @media (max-width: 640px) {  
-.text-container {
- width: auto;
- margin: 0 auto;
+.justify-content-md-center{
+    margin: 0 auto !important;
+    width: auto  !important;
 }
-
 .text-center {
   width: 100% !important;
   font-size: 19px !important;
